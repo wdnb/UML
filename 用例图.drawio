@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T14:49:03.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="5G8U7ly3TwcAMJCqaSMq" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VjbctowEP0aHmF84ZZHIJDMtCQzIW2fhbXYamSJygJDv74rW45tTGkyTUo6w5Oto/Xe98h2y5/EuxtF1tFcUuAtz6G7ln/d8jzX83y8GGSfI8OBmwOhYtQKlcCC/QQLOhbdMApJTVBLyTVb18FACgGBrmFEKZnWxVaS162uSQgNYBEQ3kS/MaojG4U3KPFbYGFUWHb7V/lOTAphG0kSESrTCuRPW/5ESanzu3g3AW6SV+Qlf272m91nxxQI/ZIH6N1uf/dpEAyGy8/pNqEwv+21XatmS/jGRnyvwiAiSluv9b5IRZKymBOBq3GkY46gi7eJRllbN/QA96RiP6XQpJAIzIIJUI/7tZHSCoyOkJPEFMc804yl8AuUhl0FsrHdgIxBqz2K2N2uTXPRZ3aZlkUbFD0VVQrmXVmQ2EYJnzWXucQbm85s+SUBdb/8btrNczhZAs8fbXk9QWLAS8vrczQwXiq8C3UWYY6wWk77Pzam/JgiLlXLH2VjQPblRvl4by0TppkUFfXoFzs00DRJTMgKVjWLMWFcy8xkD8wiV3tgdprvPFsjpW6TsyzaLPTplqBjzpxxDspWs/A3E5jM7nOYy4CU8P1qxQLMmGPrnbuSbaHqrgM7Eq85dAIZW62cBBDhFIOqTzZn4ikHIq0NOYxM+bxZmqYdqkjaYTIXPD0PXqXJ7ABVRsAWe8zinDbqpgIq/A7Ddl8xgf7lTs8o0cQUCvEErxtsnjbZIqiSNvo+6xmbGZy0r9oeujDsrEWIVtKIaVisMWA0lSK/1idPyQ2aoXaEquNkJmwut8xoyUQNMMOklUhz4k7zw4vn0OvXB7HXHER3eGQQB6+fQ1xWRvE1rOc3WK/BdiDoyJwfuFpizz49Rgx7dozwjPGiBCukNst9rlkDxcPD6gC+lOm0BMYZgBsmlyww9HhQwlfWJJEbFcAfmxkPTKJCOKmxa6eP1g7DZo0VcBzebf1svDDnXzEnTYmihjulUiwxXjbZc6yIyGSIQOJRJ5nU+yBM2j0rk7pO238rKq0zZ4Nc341KD15p3CPvNEepdPgvqbR3odKaYP9Cpeei0kdIEmPnK3696WM0evuA0DVTmDR5mkSLA/HcJNo/K4n+9wx6+DL6MSl0cKHQmuDwQqHnotAH45dzLYXMPuibFLrYJxqQR5wRjZk4yaH+B+HQ4Vk59E0+6N/vFfPqrASJUPkDNBOv/Eb2p78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-20T14:56:45.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="QkfJfOCs1F-dkO03GEy4" version="13.7.3" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="735" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="710" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-10" value="管理员&lt;br&gt;" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="170" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-13" value="消费查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="470" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-14" value="监视功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="290" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-21" value="消费打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="460" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-23" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="eOAoFRRqFjfWuNRvMkIL-14" target="eOAoFRRqFjfWuNRvMkIL-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="110" as="sourcePoint" />
+            <mxPoint x="424" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-24" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="eOAoFRRqFjfWuNRvMkIL-14" target="eOAoFRRqFjfWuNRvMkIL-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="115" as="sourcePoint" />
+            <mxPoint x="470" y="108.04347826086962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-1" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="710" height="280" as="geometry" />
+        </mxCell>
+        <UserObject label="Evan Miller&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;CFO&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Evan Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="eOAoFRRqFjfWuNRvMkIL-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="eOAoFRRqFjfWuNRvMkIL-1">
+            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-3" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="eOAoFRRqFjfWuNRvMkIL-1" source="eOAoFRRqFjfWuNRvMkIL-2" target="eOAoFRRqFjfWuNRvMkIL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Edward Morrison&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Brand Manager&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="eOAoFRRqFjfWuNRvMkIL-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="eOAoFRRqFjfWuNRvMkIL-1">
+            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="eOAoFRRqFjfWuNRvMkIL-1" source="eOAoFRRqFjfWuNRvMkIL-2" target="eOAoFRRqFjfWuNRvMkIL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Tessa Valet&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;HR Director&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Tessa Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="eOAoFRRqFjfWuNRvMkIL-6">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="eOAoFRRqFjfWuNRvMkIL-1">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="eOAoFRRqFjfWuNRvMkIL-1" source="eOAoFRRqFjfWuNRvMkIL-2" target="eOAoFRRqFjfWuNRvMkIL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Ron Donovan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;System Admin&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Email&lt;/a&gt;" name="Ron Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="eOAoFRRqFjfWuNRvMkIL-8">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="eOAoFRRqFjfWuNRvMkIL-1">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-11" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="eOAoFRRqFjfWuNRvMkIL-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOAoFRRqFjfWuNRvMkIL-12" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="330" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
