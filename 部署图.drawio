@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T14:44:15.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="-oDDJlzxNZ_TrUZhTD-R" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T14:44:47.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="sgb4KmosjkdgvcaSthBU" version="13.7.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -16,6 +16,12 @@
             <mxPoint x="759" y="201.88271604938268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uW-Kh_5QVIRXYQqYzv6B-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-15" target="uW-Kh_5QVIRXYQqYzv6B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uW-Kh_5QVIRXYQqYzv6B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-15" target="uW-Kh_5QVIRXYQqYzv6B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a7d8f32e03d9370-15" value="K8S集群" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="834" y="151.75" width="71" height="97.5" as="geometry" />
         </mxCell>
@@ -29,10 +35,10 @@
           <mxGeometry x="637" y="186.7" width="71.84" height="53.3" as="geometry" />
         </mxCell>
         <mxCell id="uW-Kh_5QVIRXYQqYzv6B-3" value="mysql数据库服务器" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="984" y="210" width="71" height="97.5" as="geometry" />
+          <mxGeometry x="1020" y="200" width="71" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="uW-Kh_5QVIRXYQqYzv6B-4" value="redis服务器" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="973" y="70" width="71" height="97.5" as="geometry" />
+          <mxGeometry x="1020" y="70" width="71" height="97.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
