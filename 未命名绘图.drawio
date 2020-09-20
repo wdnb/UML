@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T14:13:25.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="_ivqFJ3mjoIUQGXZ0Oip" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T14:16:08.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UbX_7liOjOR8aD7u7_Ph" version="13.7.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="79uwBZHlucGFQvVzSjw_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="79uwBZHlucGFQvVzSjw_-43" target="79uwBZHlucGFQvVzSjw_-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79uwBZHlucGFQvVzSjw_-43" value="付款" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
+        <mxCell id="79uwBZHlucGFQvVzSjw_-43" value="充钱" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="1">
           <mxGeometry x="145" y="315" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="79uwBZHlucGFQvVzSjw_-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
